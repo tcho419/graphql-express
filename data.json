@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Althilus",
+      "email": "alth@dis.com",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Clout",
+      "email": "clout@dis.com",
+      "age": 26
+    },
+    {
+      "id": "3",
+      "name": "Mayple",
+      "email": "may@dis.com",
+      "age": 24
+    },
+    {
+      "id": "4",
+      "name": "Dawn",
+      "email": "dawn@dis.com",
+      "age": 22
+    }
+  ]
+}
